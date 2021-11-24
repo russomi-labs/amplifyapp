@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 
+[Build a Full-Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/) - Create a simple web application using AWS Amplify.
+
 ```bash
 npx create-react-app amplifyapp
 cd amplifyapp
