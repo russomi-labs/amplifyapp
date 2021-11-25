@@ -1,7 +1,7 @@
 {
   "resourceName": "imagestorage",
-  "policyUUID": "c734bae8",
-  "bucketName": "amplifyapp64941a945401413581d7b169e3b6a147",
+  "policyUUID": "57678af0",
+  "bucketName": "amplifyapp6098b51df58e4668b611749ba5872e5a",
   "storageAccess": "auth",
   "guestAccess": [],
   "authAccess": [
@@ -9,5 +9,6 @@
     "READ",
     "DELETE"
   ],
+  "triggerFunction": "NONE",
   "groupAccess": {}
 }
